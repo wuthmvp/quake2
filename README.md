@@ -1,6 +1,9 @@
 Base:
+
 https://github.com/id-Software/Quake-2
+
 https://github.com/philipbuuck/Quake-2-VS2013
+
 The “Quake-2-VS2013” is project made by github user “philipbuuck” and it helps to compile & build working version of quake 2 on modern computer: author of this project said:
 (…)”The Visual Studio files that come with the source code are hopelessly out of date, and nearly impossible to work with, even on a Windows XP machine running Visual C++ 6.0. Believe me, I've tried. So rather than continue to wrestle with that, I have recreated the project instead.”. 
 
